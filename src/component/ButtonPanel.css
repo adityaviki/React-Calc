@@ -1,0 +1,7 @@
+.component-button-panel {
+  background-color: #858694;
+}
+
+.component-button-panel > div {
+  width: 100%;
+}
