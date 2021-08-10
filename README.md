@@ -2,6 +2,7 @@
 Basic calculator app written in Rest
 
 Right now this app can only perform rudimentary calculations. There are many other features that need to implemented.
+![]https://github.com/adityaviki/React-Calc/blob/main/data/calc.png
 
 ## Features 
 - [x] Basic Calculator app
