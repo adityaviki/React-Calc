@@ -1,5 +1,5 @@
 # React-Calc
-Basic calculator app written in React
+Basic React calculator
 
 Right now this app can only perform rudimentary calculations. There are many other features that need to implemented.
 
