@@ -17,5 +17,3 @@ To run this app you will need `Nodejs`, `yarn`, and `React`.
 After cloning the app enter command `yarn` to install required dependencies and then type `yarn start` to start the application.
 
 The app will be available on `localhost:3000/`
-
-[](https://www.youtube.com/watch?v=EWL_DSurFRU)
